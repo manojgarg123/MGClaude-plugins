@@ -1,0 +1,7 @@
+{
+  "name": "MGClaude Plugins",
+  "description": "Productivity plugins for Claude by Manoj Garg",
+  "plugins": [
+    { "name": "resume-shortlisting", "path": "./resume-shortlisting" },
+      ]
+}
