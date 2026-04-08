@@ -1,0 +1,11 @@
+{
+  "name": "resume-shortlisting",
+  "version": "1.0.0",
+  "description": "Screen and rank job candidates by scoring resumes against a job description. Builds a consistent evaluation rubric, scores candidates across skills, experience, education, and fit, and generates a ranked Excel tracker plus an HTML dashboard.",
+  "author": {
+    "name": "Manoj Garg",
+    "email": "manojgarg123@gmail.com"
+  },
+  "keywords": ["hr", "recruiting", "resume", "shortlisting", "hiring", "candidates", "screening", "talent"],
+  "license": "MIT"
+}
